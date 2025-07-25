@@ -23,6 +23,10 @@ This project is aimed to show statical reprsentation of rating of movies. It als
 **It proceeds to next page and show the Predicted Rating. On clicking the button given below we can proceed to next web page:**
 ![Screenshot (477)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/868d1805-8567-4154-8ecb-dae2b7ffd1eb)
 
+**Metrics of Model Training:**
+<img width="492" height="93" alt="image" src="https://github.com/user-attachments/assets/e645d934-abb2-420d-8310-b52642d9d243" />
+
+
 **On this page can compare real rating and predicted rating:**
 ![Screenshot (475)](https://github.com/kanika1404/Movie-Rating-Analysis-and-Pridiction/assets/130000020/56daa107-fa36-4c66-931a-a1f5482082b4)
 
